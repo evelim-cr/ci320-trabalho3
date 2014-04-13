@@ -1,0 +1,7 @@
+comandos do git
+
+git status - mostra informações do git
+git add - adiciona um arquivo no branch que está no momento 
+git commit -m -> salva seus arquivos depois do servidor de adiciona-los no branch local e adiciona um comentário
+git commit -sam -> faz a mesma coisa que um add e um commit -m
+g
